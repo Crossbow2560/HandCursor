@@ -4,6 +4,6 @@ Scroll and right click are not available at the moment but i am working on it :)
 The movement is still a bit glitchy but currently in the process of smoothening out the movement.
 
 Running the code will use your camera to track hand movements.
-Run the main.py file in your local machine to start the program.
+Run the Hand Cords.py file in your local machine to start the program.
 
-Note: Please install mediapipe before running main.py.
+Note: Please install mediapipe before running Hand Cords.py.
