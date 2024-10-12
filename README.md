@@ -7,6 +7,6 @@ Running the code will use your camera to track hand movements.
 Run the Hand Cords.py file in your local machine to start the program.
 
 Note: Please install mediapipe, keyboard, and mouse using the following commands before running Hand Cords.py.
-  > pip install keyboard
-  > pip install mediapipe
-  > pip install mouse
+  > pip install keyboard <br/>
+  > pip install mediapipe <br/>
+  > pip install mouse <br/>
