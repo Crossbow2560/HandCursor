@@ -54,6 +54,7 @@ with mp_hands.Hands(
                     distance_scroll = math.sqrt(((px - tx) ^ 2) - ((py - ty) ^ 2))
                 except:
                     pass
+                cursor(wx, wy, distance, home, distance_scroll)
                 if start_track == 0 and home == [0, 0]:
                     home = [ix, iy]
                     print(home)
